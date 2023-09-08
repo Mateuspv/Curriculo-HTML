@@ -1,4 +1,4 @@
-divExperiencias = document.querySelector["#experiencies"]
+divExperiencias = document.querySelector("#experiencies")
 
 experiencias = [
     {
